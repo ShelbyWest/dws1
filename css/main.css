@@ -27,7 +27,7 @@ ul.nav {
 	text-align: center;
 }
 
-li {
+li.nav {
 	width: 50px;
 	margin: 10px;
 	display: inline;
