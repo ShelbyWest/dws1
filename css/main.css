@@ -90,6 +90,7 @@ h2, h3 {
 /* ordered list styles */
 ol {
 	list-style-type: upper-roman;
+	text-align: left;
 }
 
 /* images styles */
