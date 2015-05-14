@@ -28,6 +28,7 @@ ul.nav {
 }
 
 li {
+	width: 50px;
 	margin: 10px;
 	display: inline;
 }
