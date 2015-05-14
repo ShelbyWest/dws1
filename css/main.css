@@ -21,3 +21,7 @@ a:visted {
 a:hover {
 	color: #063410;
 }
+
+a:active {
+	color: #37ab50;
+}
