@@ -87,7 +87,7 @@ h2.images {
 	text-align: center;
 }
 
-a.spaghetti, a.lasagna, a.gelato {
+a.spaghetti, a.lasagna, a.gelato:link{
 	border: 3px solid #0c5500;
 	width: 450px;
 	height: 300px;
@@ -102,7 +102,7 @@ a.spaghetti, a.lasagna, a.gelato:hover {
 	border: 3px solid #bf3030;
 }
 
-a.spaghetti, a.lasagna, a.gelato:active{
+a.spaghetti, a.lasagna, a.gelato:active {
 	border: 3px solid #cdf8d7;
 }
 
