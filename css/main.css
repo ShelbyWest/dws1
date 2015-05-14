@@ -93,7 +93,7 @@ a.spaghetti {
 	display: block; 
 }
 
-a.spaghetti:hover{
+a:hover{
 	border: 3px solid #bf3030;
 }
 
