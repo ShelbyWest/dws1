@@ -93,6 +93,10 @@ a.spaghetti {
 	display: block; 
 }
 
+a.spaghetti:hover{
+	border: 3px solid #bf3030;
+}
+
 footer {
 	font-size: 12px;
 	font-family: 'Courier New', Courier;
