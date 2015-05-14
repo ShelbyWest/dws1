@@ -24,10 +24,10 @@ body {
 
 ul.nav {
 	list-style-type: none; 
+	text-align: center;
 }
 
 li {
-	text-align: center;
 	display: inline;
 }
 
