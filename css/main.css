@@ -24,6 +24,7 @@ body {
 
 nav {
 	text-align: center;
+	display: inline; 
 }
 
 p.name {
