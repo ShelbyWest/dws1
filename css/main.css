@@ -88,6 +88,8 @@ h2.images {
 
 a.spaghetti {
 	border: 3px solid #0c5500;
+	width: 450px;
+	height: 300px;
 	display: block; 
 }
 
