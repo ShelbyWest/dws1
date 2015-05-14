@@ -37,6 +37,10 @@ h2, h3 {
 	font-weight: bold;
 }
 
+h2.images {
+	font-align: center;
+}
+
 blockquote {
 	font-size: 20px;
 	font-family: "Courier New", Courier;
