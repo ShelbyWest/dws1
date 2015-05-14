@@ -16,6 +16,9 @@ h1 {
 	font-family: Pacifico, Impact, Courier;
 	text-align: center;
 	color: #bf3030;
+	height: 200px;
+	width: 990px;
+	background-color: #FFFFFF;
 }
 
 blockquote {
