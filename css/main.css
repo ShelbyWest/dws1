@@ -86,7 +86,7 @@ h2.images {
 	text-align: center;
 }
 
-a {
+a.spaghetti, a.lasagna, a.gelato {
 	border: 3px solid #0c5500;
 	width: 450px;
 	height: 300px;
