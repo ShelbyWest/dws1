@@ -10,6 +10,7 @@ body {
 	margin-right: auto;
 	border-style: ridge;
 	background-color: #fff
+	border-radius: 15px;
 }
 
 @font-face {
