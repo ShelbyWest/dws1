@@ -4,8 +4,12 @@ body {
 }
 
 h1 {
-	font-family: Impact, Courier;
 	font-size: 45px;
+	font-family: Impact, Courier;
 	color: #bf3030;
 }
 
+a:link {
+	color: #1d5e2b
+	text-decoration: none;
+}
