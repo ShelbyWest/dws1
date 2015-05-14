@@ -94,15 +94,39 @@ a.spaghetti, a.lasagna, a.gelato:link{
 	display: block; 
 }
 
-a.spaghetti, a.lasagna, a.gelato:visited {
+a.spaghetti:visited {
 	border: 3px solid #000000
 }
 
-a.spaghetti, a.lasagna, a.gelato:hover {
+a.lasagna:visited {
+	border: 3px solid #000000
+} 
+
+a.gelato:visited {
+	border: 3px solid #000000
+}
+
+a.spaghetti:hover {
 	border: 3px solid #bf3030;
 }
 
-a.spaghetti, a.lasagna, a.gelato:active {
+a.lasagna:hover {
+	border: 3px solid #bf3030;
+}
+
+a.gelato:hover {
+	border: 3px solid #bf3030;
+}
+
+a.spaghetti:active {
+	border: 3px solid #cdf8d7;
+}
+ 
+a.lasagna:active {
+	border: 3px solid #cdf8d7;
+}
+
+a.gelato:active {
 	border: 3px solid #cdf8d7;
 }
 
