@@ -18,6 +18,14 @@ h1 {
 	color: #bf3030;
 }
 
+blockquote {
+	font-size: 20px;
+	font-family: "Courier New", Courier;
+	text-align:center; 
+  	display: block;
+	margin: 2px;
+}
+
 a:link {
 	color: #1d5e2b;
 	text-decoration: none;
