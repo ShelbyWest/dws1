@@ -16,7 +16,10 @@ nav {
 }
 
 p.name {
+	font-size: 20px;
+	font-family: 'Courier New', Courier;
 	font-style: italic;
+	text-align: center;
 }
 
 h1 {
