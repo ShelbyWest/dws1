@@ -93,9 +93,18 @@ a.spaghetti, a.lasagna, a.gelato {
 	display: block; 
 }
 
-a:hover{
+a:visited {
+	border: 3px solid #000000
+}
+
+a:hover {
 	border: 3px solid #bf3030;
 }
+
+a:active{
+	border: 3px solid #cdf8d7;
+}
+
 
 footer {
 	font-size: 12px;
