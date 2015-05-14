@@ -16,6 +16,7 @@ h1 {
 	font-family: Pacifico, Impact, Courier;
 	text-align: center;
 	color: #bf3030;
+	border-style: groove;
 }
 
 blockquote {
@@ -24,7 +25,6 @@ blockquote {
 	text-align:center; 
   	display: block;
 	margin: 2px;
-	border-style: outset;
 }
 
 a:link {
