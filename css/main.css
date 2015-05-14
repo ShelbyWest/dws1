@@ -1,3 +1,4 @@
+/* main styles */
 body {
 	font-family: Arial, Verdana;
 	background-color: #0c5500;
@@ -14,6 +15,7 @@ body {
 	background-color: #fff
 }
 
+/* font face for the header */
 @font-face {
   font-family: 'Pacifico';
   font-style: normal;
@@ -22,19 +24,7 @@ body {
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
-ul.nav {
-	list-style-type: none; 
-	text-align: center;
-}
-
-p.name {
-	font-size: 20px;
-	font-family: 'Courier New', Courier;
-	font-style: italic;
-	text-align: center;
-	line-height: 1.5em;
-}
-
+/* header styles */
 h1 {
 	font-size: 45px;
 	font-family: Pacifico, Impact, Courier;
@@ -44,20 +34,9 @@ h1 {
 	opacity: 0.8;
 }
 
-h2, h3 {
-	font-weight: bold;
-	color: #bf3030;
-}
-
-blockquote {
-	font-size: 20px;
-	font-family: "Courier New", Courier;
-	text-align:center; 
-  	display: block;
-	margin: 2px;
-}
-
-p.one {
+/* navigation links and style */
+ul.nav {
+	list-style-type: none; 
 	text-align: center;
 }
 
@@ -79,14 +58,46 @@ a:active {
 	color: #cdf8d7;
 }
 
+/* quote styles */
+blockquote {
+	font-size: 20px;
+	font-family: "Courier New", Courier;
+	text-align:center; 
+  	display: block;
+	margin: 2px;
+}
+
+p.name {
+	font-size: 20px;
+	font-family: 'Courier New', Courier;
+	font-style: italic;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+/* introduction styles */
+p.one {
+	text-align: center;
+}
+
+/* other header styles */
+h2, h3 {
+	font-weight: bold;
+	color: #bf3030;
+	padding: 20px;
+}
+
+/* ordered list styles */
 ol {
 	list-style-type: upper-roman;
 }
 
+/* images styles */
 h2.images {
 	text-align: center;
 }
 
+/* image borders and links */
 a.spaghetti, a.lasagna, a.gelato:link{
 	border: 3px solid #0c5500;
 	width: 450px;
@@ -130,7 +141,7 @@ a.gelato:active {
 	border: 3px solid #cdf8d7;
 }
 
-
+/* footer styles */
 footer {
 	font-size: 12px;
 	font-family: 'Courier New', Courier;
