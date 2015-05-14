@@ -1,3 +1,9 @@
+@font-face {
+	font-family: 'KaushanScript';
+	src: url('Kaushan-Script/KaushanScript-Regular.otf')
+format('otf');
+}
+
 body {
 	font-family: Arial, Verdana;
 	background-color: #ededed;
@@ -5,7 +11,7 @@ body {
 
 h1 {
 	font-size: 45px;
-	font-family: Impact, Courier;
+	font-family: KaushanScript, Impact, Courier;
 	color: #bf3030;
 }
 
@@ -25,3 +31,4 @@ a:hover {
 a:active {
 	color: #cdf8d7;
 }
+
