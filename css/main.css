@@ -86,6 +86,11 @@ h2.images {
 	text-align: center;
 }
 
+a.spaghetti {
+	border: 3px solid #0c5500;
+	display: block; 
+}
+
 footer {
 	font-size: 12px;
 	font-family: 'Courier New', Courier;
