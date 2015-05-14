@@ -94,15 +94,15 @@ a.spaghetti, a.lasagna, a.gelato {
 	display: block; 
 }
 
-a:visited {
+a.spaghetti, a.lasagna, a.gelato:visited {
 	border: 3px solid #000000
 }
 
-a:hover {
+a.spaghetti, a.lasagna, a.gelato:hover {
 	border: 3px solid #bf3030;
 }
 
-a:active{
+a.spaghetti, a.lasagna, a.gelato:active{
 	border: 3px solid #cdf8d7;
 }
 
