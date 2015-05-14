@@ -20,6 +20,7 @@ p.name {
 	font-family: 'Courier New', Courier;
 	font-style: italic;
 	text-align: center;
+	line-height: 1.5em;
 }
 
 h1 {
