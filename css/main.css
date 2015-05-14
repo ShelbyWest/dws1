@@ -15,8 +15,8 @@ nav {
 	text-align: center;
 }
 
-ul.nav {
-	list-style: none;
+.name {
+	font-style: italic;
 }
 
 h1 {
