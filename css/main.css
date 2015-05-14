@@ -13,7 +13,10 @@ body {
 
 nav {
 	text-align: center;
-	list-style: none; 
+}
+
+ul.nav {
+	list-style: none;
 }
 
 h1 {
