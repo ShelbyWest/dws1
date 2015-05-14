@@ -14,9 +14,9 @@ body {
 h1 {
 	font-size: 45px;
 	font-family: Pacifico, Impact, Courier;
+	color: #bf3030;
 	text-align: center;
   	text-shadow: 1px 1px 3px #666666;
-	color: #bf3030;
 	border-style: groove;
 }
 
