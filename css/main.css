@@ -79,8 +79,8 @@ h2.images {
 }
 
 footer {
-	font-family: 'Courier New', Courier
 	font-size: 12px;
+	font-family: 'Courier New', Courier;
 	text-align: right;
 }
 
