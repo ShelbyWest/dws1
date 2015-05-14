@@ -11,6 +11,10 @@ body {
 	background-color: #ededed;
 }
 
+nav {
+	text-align: center;
+}
+
 h1 {
 	font-size: 45px;
 	font-family: Pacifico, Impact, Courier;
