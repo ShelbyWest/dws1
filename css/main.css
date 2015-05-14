@@ -64,6 +64,7 @@ p.one {
 a:link {
 	color: #1d5e2b;
 	text-decoration: none;
+	display: inline;
 }
 
 a:visited {
