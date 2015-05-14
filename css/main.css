@@ -1,6 +1,9 @@
 body {
 	font-family: Arial, Verdana;
 	background-color: #ededed;
+}
+
+#site {
 	max-width: 940px;
   	min-width: 720px;
 	margin-left: auto;
