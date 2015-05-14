@@ -34,3 +34,11 @@ a:active {
 	color: #cdf8d7;
 }
 
+ol {
+	list-style-type: upper-roman;
+}
+
+ul#images {
+	list-style-type: none;
+}
+
