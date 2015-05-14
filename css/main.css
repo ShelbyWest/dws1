@@ -98,11 +98,6 @@ ol {
 	text-align: left;
 }
 
-/* images styles */
-h2.images {
-	text-align: center;
-}
-
 /* image borders and links */
 a.spaghetti, a.lasagna, a.gelato:link{
 	border: 3px solid #0c5500;
