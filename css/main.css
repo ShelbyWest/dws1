@@ -94,7 +94,7 @@ h2, h3 {
 
 #column2{
 	float: right;
-	width: 45%
+	width: 45%;
 	background: linear-gradient(to bottom,  #0c7a08 0%,#7fe28e 100%);
 	margin: 3em;
 	clear: both; 
