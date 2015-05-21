@@ -5,8 +5,8 @@ body {
 }
 
 #site {
-	max-width: 940px;
-  	min-width: 600px;
+	max-width: 94%;
+  	min-width: 60%;
 	margin: 0 auto;
 	border-style: ridge;
 	border-radius: 15px;
