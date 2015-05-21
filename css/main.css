@@ -107,7 +107,7 @@ ol {
 /* image borders and links */
 a.spaghetti, a.lasagna, a.gelato:link{
 	border: 3px solid #0c5500;
-	width: 39%;
+	width: 37%;
 	height: 300px;
 	display: block; 
 }
