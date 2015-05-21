@@ -2,9 +2,11 @@
 body {
 	font-family: Arial, Verdana;
 	background-color: #0c5500;
+	
+.site{
 	max-width: 90%;
   	min-width: 60%;
-	margin: 0 auto;
+	margin: 0 auto; 
 	border-style: ridge;
 	border-radius: 15px;
 	box-shadow: 5px 5px 5px #777777;
