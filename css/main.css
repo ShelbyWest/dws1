@@ -5,6 +5,7 @@ body {
 }
 	
 #site{
+	float: right;
 	max-width: 90%;
   	min-width: 60%;
 	margin: 0 auto; 
@@ -85,7 +86,7 @@ h2, h3 {
 	padding-left: 20px;
 }
 
-.column2{
+#column2{
 	float: right;
 	width: 45%
 	background: linear-gradient(to bottom,  #0c7a08 0%,#7fe28e 100%);
