@@ -89,6 +89,7 @@ h2, h3 {
 	width: 45%
 	background: linear-gradient(to bottom,  #0c7a08 0%,#7fe28e 100%);
 	margin: 6em;
+	clear: both; 
 }
 
 /* paragraph */
