@@ -2,9 +2,6 @@
 body {
 	font-family: Arial, Verdana;
 	background-color: #0c5500;
-}
-
-#site {
 	max-width: 90%;
   	min-width: 60%;
 	margin: 0 auto;
@@ -86,7 +83,7 @@ h2, h3 {
 }
 
 .column2{
-	float: left;
+	float: right;
 	width: 45%
 	background: linear-gradient(to bottom,  #0c7a08 0%,#7fe28e 100%);
 	margin: 6em;
