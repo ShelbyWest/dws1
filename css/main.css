@@ -3,7 +3,7 @@ body {
 	font-family: Arial, Verdana;
 	background-color: #0c5500;
 	
-div.site{
+#site{
 	max-width: 90%;
   	min-width: 60%;
 	margin: 0 auto; 
