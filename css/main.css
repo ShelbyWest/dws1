@@ -1,7 +1,8 @@
 /* main styles */
 body {
 	font-family: Arial, Verdana;
-	background-color: #0c5500;
+	background-image: url(".../images/pattern_105.gif");
+	
 }
 	
 #site{
@@ -89,15 +90,13 @@ h2, h3 {
 	float: left;
 	width: 30%;
 	margin: 3em;
-	clear: both;
 }
 
 #column2{
 	float: right;
 	width: 30%;
 	background: linear-gradient(to bottom,  #0c7a08 0%,#7fe28e 100%);
-	margin: 3em;
-	clear: both; 
+	margin: 3em; 
 }
 
 /* paragraph */
