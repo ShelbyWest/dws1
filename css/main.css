@@ -85,6 +85,12 @@ h2, h3 {
 	padding-left: 16px;
 }
 
+#history, #images{
+	background-image: url("../Images/italian-flag.png");
+	background-repeat: no-repeat;
+	height: 30px
+	padding: 5px 0 0 60px;
+}
 #column1{
 	float: left;
 	width: 50%;
