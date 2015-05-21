@@ -62,7 +62,7 @@ blockquote {
 	font-size: 1.25em;
 	font-family: "Courier New", Courier;
 	text-align:center; 
-	margin: 2px;
+	margin: 12.5%;
 }
 
 p.name {
@@ -99,7 +99,7 @@ ol {
 /* image borders and links */
 a.spaghetti, a.lasagna, a.gelato:link{
 	border: 3px solid #0c5500;
-	width: 450px;
+	width: 45%;
 	height: 300px;
 	display: block; 
 }
