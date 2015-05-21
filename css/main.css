@@ -95,7 +95,9 @@ h2, h3 {
 	float: right;
 	width: 30%;
 	background: linear-gradient(to bottom, #99f246 0%,#bfff8c 49%,#94dd2e 100%);
-	margin: 3em; 
+	margin: 3em;
+	border: 3px solid #cd281c;
+	border-radius: 10px;
 }
 
 /* paragraph */
