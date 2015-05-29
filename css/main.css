@@ -128,7 +128,9 @@ ol {
 
 /* table */
 
-table.
+table {
+	width: 200px;
+}
 
 
 
