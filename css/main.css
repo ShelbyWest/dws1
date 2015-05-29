@@ -132,8 +132,12 @@ table {
 	width: 700px;
 }
 
-tr.even {
-  background-color: #009933;
+tr.green {
+	background-color: #009933;
+}
+
+tr.red {
+	background-color: #FF0000;
 }
 
 
