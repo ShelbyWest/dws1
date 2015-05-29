@@ -39,10 +39,15 @@ ul.nav {
 	text-align: center;
 }
 
+li {
+	display: inline;   
+	padding: 10px 10px 10px 10px;
+  	font-size: 20px;
+}
+
 a:link {
 	color: #1d5e2b;
 	text-decoration: none;
-	display: inline;
 }
 
 a:visited {
@@ -120,6 +125,14 @@ ol {
 	list-style-type: upper-roman;
 	text-align: left;
 }
+
+/* table */
+
+table.
+
+
+
+
 
 /* image borders and links */
 a.spaghetti, a.lasagna, a.gelato:link{
