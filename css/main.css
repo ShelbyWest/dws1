@@ -132,6 +132,9 @@ table {
 	width: 200px;
 }
 
+tr.even {
+  background-color: #009933;
+}
 
 
 
