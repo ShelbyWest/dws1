@@ -132,6 +132,12 @@ table {
 	width: 700px;
 }
 
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
 tr.green {
 	background-color: #009933;
 }
