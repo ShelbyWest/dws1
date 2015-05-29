@@ -127,9 +127,11 @@ ol {
 }
 
 /* table */
-
 table {
 	width: 700px;
+	border: 2px solid #000000;
+	border-radius: 5px;
+	border-collapse: collapse;
 }
 
 tr {
@@ -138,11 +140,25 @@ tr {
   border-color: inherit;
 }
 
-tr.green {
+tr:hover {
+	background-color: #d8d8d8;
+}
+
+th {
+	text-transform: uppercase;
+}
+
+td	{
+	text-align: right;
+	padding: 5px;
+  	font-size: 15pt;
+  	border: 1px solid #000000;
+}
+.green {
 	background-color: #009933;
 }
 
-tr.red {
+.red {
 	background-color: #FF0000;
 }
 
