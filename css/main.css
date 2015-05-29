@@ -115,11 +115,6 @@ h2, h3 {
 	border-radius: 10px;
 }
 
-/* paragraph */
-p {
-	padding-left: 20px;
-}
-
 /* ordered list styles */
 ol {
 	list-style-type: upper-roman;
@@ -159,7 +154,7 @@ td	{
 }
 
 .red {
-	background-color: #FF0000;
+	background-color: #ff0000;
 }
 
 
@@ -207,6 +202,32 @@ a.lasagna:active {
 
 a.gelato:active {
 	border: 3px solid #cdf8d7;
+}
+
+
+/* form */
+
+form {
+	background-color: #ccffcc;
+	border: 2px solid #000000;
+	margin: 50px 10px 50px 20px;
+}
+
+legend {
+	font-size: 16pt;
+	font-weight: bold; 
+	padding: 10px 10px 10px 10px;
+	color: #ff0000;
+	text-align: center;
+}
+
+
+input:hover {
+	background-color: #cccccc;
+}
+
+input:focus {
+	background-color: #ffb2b2;
 }
 
 /* footer styles */

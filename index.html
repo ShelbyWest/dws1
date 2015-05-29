@@ -60,7 +60,7 @@
 							<br>
 						</figure>
 					<br>
-				</section>
+				</section>	
 				<table> 
 					<tr>
 						<th scope="col">Menu Item</th>
@@ -86,7 +86,46 @@
 						<td>0g</td>
 						<td>0mg</td>
 					</tr>
-				</table>	
+				</table>
+				<br>
+				<form 
+					action:"https://example.com/join.php"
+					method="post">
+					
+					<fieldset>
+						<legend>Information about You</legend>
+						<p>Name:</p>
+							<input type="text" name="name" placeholder="Name" required="required"/>
+					
+						<p>Join our mailing list and get free coupons! Enter your email below.</p>
+							<input type="email" name="email" placeholder="Email">
+							<input type="submit" name="submit">
+					</fieldset>
+						
+					<fieldset>
+						<legend>Review Nonna's</legend>
+						<p>Will you be coming back to Nonna's?
+							<br>
+							<input id="yes" type="radio" name="returning" value="yes" checked="checked">
+							<label for="yes">Yes</label>
+							<input id="no" type="radio" name="returning" value="no">
+							<label for="no">No</label>
+							<input id="maybe" type="radio" name="returning" value="maybe">
+							<label for="maybe">Maybe</label>
+						</p>
+						<p>How would you describe the service at Nonna's?</p>
+							<textarea name="comments" cols="50" rows="6">We love hearing from you...</textarea>
+						<p>How likely are you to recommend Nonna's to your friends?</p>
+							<select name="recommendations">
+								<option value="very">Very Likely</option>
+								<option value="likely">Likely</option>
+								<option value="not likely">Not Likely</option>
+								<option value="never">Never</option>
+							</select>
+						<input type="submit" name="submit" value="Submit Review">
+					</fieldset>
+				</form>
+					
 				</div>
 				<div id="column2">
 					<aside>
