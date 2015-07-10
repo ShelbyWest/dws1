@@ -25,7 +25,7 @@ header{
 	border-bottom: 7px double #0D4F8B; /*changes color of border under project name*/
 }
 h1{
-	font-size: 30px;
+	font-size: 45px;
     font-family: Impact, Charcoal, sans-serif;
     color: #2F2F4F;
     margin-top: 0;
@@ -36,7 +36,7 @@ h1{
 h2{
 	margin-top: 20px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
