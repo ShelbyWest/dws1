@@ -1,0 +1,71 @@
+/* Project CSS 
+============================================================
+============================================================*/
+
+body{
+	background-color: #694489;
+}
+
+#container{
+	margin:50px auto;
+}
+/* HEADER ============================== */
+
+header {
+    height:60px;
+    background:#2E0854;
+    margin:0px auto;
+    text-align: center;
+}
+
+h1{
+	font: 3em 'Poiret One';
+	color: #ffffff;
+}
+
+/* ABOUT ============================== */
+
+#about{
+	width:80%;
+	padding:10px;
+	margin: 30px auto;
+	font: 1.5em 'Roboto';
+	text-align: center;
+	background-color: #D8BFD8;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px #2E0854;
+}
+
+/* COMPONENTS ============================== */
+article{
+	width:70%;
+	padding:20px;
+	margin: 30px auto;
+	font: 1.5em 'Roboto';
+	background-color: #D8BFD8;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px #2E0854;
+}
+h2{
+	font: 2em 'Poiret One';
+	text-align: center;
+	border-bottom: solid 2px;
+}
+span{
+	font-weight:900;
+}
+img{
+	width:800px;
+	margin:20px 75px;
+}
+p{
+	margin-top:10px;
+}
+h3{
+	margin-top: 20px;
+	text-align: center;
+	font-weight: 900;	
+}
+ol{
+	margin:20px 150px;
+}
