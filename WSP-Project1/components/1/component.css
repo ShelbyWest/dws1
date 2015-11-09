@@ -1,4 +1,10 @@
-/* Component Stylesheet 
-============================================================
-============================================================*/
+h1{
+    font:3em 'Poiret One';
+    text-align: center;
+    margin-top:20px;
+    border-bottom:solid 2px;
+}
 
+#carousel{
+	max-width: 100%;
+}

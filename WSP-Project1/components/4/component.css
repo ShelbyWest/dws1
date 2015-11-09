@@ -1,4 +1,31 @@
 /* Component Stylesheet 
 ============================================================
 ============================================================*/
+h1{
+	font:3em 'Poiret One';
+	text-align: center;
+	margin-top:20px;
+	border-bottom:solid 2px;
+	margin-bottom:20px;
+}
+p{
+	width:300px;
+}
+
+img{
+	height:300px;
+	width:250px;
+	margin:5px 20px;
+	border:1px solid;
+}
+article.left{
+	float:left;
+	margin-left:200px;
+}
+
+article.right{
+	float:right;
+	margin-right:200px;
+}
+
 
