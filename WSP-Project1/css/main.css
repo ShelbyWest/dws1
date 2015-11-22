@@ -6,13 +6,12 @@ body{
 	background-color: #694489;
 }
 
-#container{
+section{
 	margin:50px auto;
 }
 /* HEADER ============================== */
 
 header {
-    height:60px;
     background:#2E0854;
     margin:0px auto;
     text-align: center;
@@ -25,25 +24,24 @@ h1{
 
 /* ABOUT ============================== */
 
-#about{
-	width:80%;
+aside{
+	height:80px;
+	width:95%;
 	padding:10px;
-	margin: 30px auto;
+	margin: 0px auto;
 	font: 1.5em 'Roboto';
+	color:#fff;
 	text-align: center;
-	background-color: #D8BFD8;
-	border-radius: 5px;
-	box-shadow: 5px 5px 10px #2E0854;
+	background-color:#BDA0CB;
 }
 
 /* COMPONENTS ============================== */
 article{
-	width:70%;
+	width:80%;
 	padding:20px;
 	margin: 30px auto;
 	font: 1.5em 'Roboto';
 	background-color: #D8BFD8;
-	border-radius: 5px;
 	box-shadow: 5px 5px 10px #2E0854;
 }
 h2{
