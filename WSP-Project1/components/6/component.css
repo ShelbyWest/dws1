@@ -1,0 +1,19 @@
+h1{
+	font:3em 'Poiret One';
+	text-align: center;
+	margin-top:20px;
+	border-bottom:solid 2px;
+}
+
+section{
+	width:900px;
+	margin:0 auto;
+	padding-top: 20px;
+
+}
+
+img{
+	width:24%;
+	height:200px;
+	border:solid 1px;
+}
